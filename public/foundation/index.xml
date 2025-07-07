@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foundation Work on My New Hugo Site</title>
-    <link>http://localhost:1313/foundation/</link>
+    <link>https://example.org/foundation/</link>
     <description>Recent content in Foundation Work on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/foundation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/foundation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/foundation/backfill/</link>
+      <link>https://example.org/foundation/backfill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/foundation/backfill/</guid>
+      <guid>https://example.org/foundation/backfill/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/foundation/excavation/</link>
+      <link>https://example.org/foundation/excavation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/foundation/excavation/</guid>
+      <guid>https://example.org/foundation/excavation/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/foundation/footings/</link>
+      <link>https://example.org/foundation/footings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/foundation/footings/</guid>
+      <guid>https://example.org/foundation/footings/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/foundation/pour/</link>
+      <link>https://example.org/foundation/pour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/foundation/pour/</guid>
+      <guid>https://example.org/foundation/pour/</guid>
       <description></description>
     </item>
   </channel>
