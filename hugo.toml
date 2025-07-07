@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ejkhub.github.io/183-river-ridge-ct/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
