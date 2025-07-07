@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foundation Work on My New Hugo Site</title>
+    <link>https://ejkhub.github.io/183-river-ridge-ct/foundation/</link>
+    <description>Recent content in Foundation Work on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ejkhub.github.io/183-river-ridge-ct/foundation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://ejkhub.github.io/183-river-ridge-ct/foundation/backfill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ejkhub.github.io/183-river-ridge-ct/foundation/backfill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ejkhub.github.io/183-river-ridge-ct/foundation/excavation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ejkhub.github.io/183-river-ridge-ct/foundation/excavation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ejkhub.github.io/183-river-ridge-ct/foundation/footings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ejkhub.github.io/183-river-ridge-ct/foundation/footings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ejkhub.github.io/183-river-ridge-ct/foundation/pour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ejkhub.github.io/183-river-ridge-ct/foundation/pour/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
