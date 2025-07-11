@@ -1,5 +1,6 @@
 ---
 title: "River Ridge Construction"
+featured_image: "/images/139900.jpg"
 ---
 
 # Our Home Build Journey

@@ -1,0 +1,43 @@
+Hugo is different from Jekyll:
+Jekyll "just the docs":
+
+Had build caching issues
+Needed Ctrl+Shift+B to clean/rebuild
+Sometimes served stale content
+
+Hugo:
+
+Much cleaner - rebuilds fresh every time
+No caching issues like Jekyll had
+hugo server always serves current content
+Faster and more reliable
+
+If you ever need a "clean build" with Hugo:
+Just stop the server (Ctrl+C) and restart:
+
+hugo server -D
+
+That's it. Hugo doesn't have the build cache problems that Jekyll had.
+The fact that your site worked immediately without any cleaning shows Hugo is much more reliable than the Jekyll setup was.
+You don't need to worry about cleaning builds with Hugo - it handles that automatically and properly.RetryEso every change it seems brings up anake , do i care about it?EditNo, you don't care about ananke changes at all.
+What's happening:
+
+ananke = Just the theme files (like a template)
+Your site = Your actual content and photos
+Every time Hugo builds, it might touch theme files and Git sees "changes"
+
+What to do:
+Completely ignore the ananke repository changes.
+
+Don't commit ananke changes
+Don't worry about ananke errors
+Only commit changes to 183-river-ridge-ct
+
+Think of it like this:
+
+ananke = The paint and brushes
+183-river-ridge-ct = Your actual painting
+
+You care about your painting, not about the paint manufacturer's issues.
+Just focus on your main site (183-river-ridge-ct) and ignore everything about ananke. It's just noise.
+The theme works fine for your site - you don't need to manage the theme's own repository.
